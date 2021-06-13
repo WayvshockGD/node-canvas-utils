@@ -1,9 +1,9 @@
 {
   "name": "node-canvas-utils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Utilites for use with node-canvas",
   "main": "index.js",
-  "types": "./index.d.ts",
+  "homepage": "https://github.com/WayvshockGD/node-canvas-utils.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
