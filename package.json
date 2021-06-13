@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Utilites for use with node-canvas",
   "main": "index.js",
+  "types": "./index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +15,8 @@
     "utilies"
   ],
   "author": "Wayvshock",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
 }
